@@ -1,7 +1,7 @@
 # AI Discipline Code-Along: Ollama RAG
 27 Mar 2024
 
-This code-along will focus on a simple RAG implementation that runs locally on your machine using [Ollama](https://ollama.com/). In addition to installing the dependencies below, you'll want to have ready a PDF document with text content, on any topic. An HTML, Markdown, or plain text document works too.
+This code-along will focus on a simple RAG implementation that runs locally on your machine using [Ollama](https://ollama.com/). In addition to installing the dependencies below, choose a document with text content that you want to chat with the model about, and store it as a PDF in the `documents` directory. Haystack has support for other document converters as well, although you may need to install additional dependencies. This code-along will assume you're using a PDF.
 
 ## Dependencies
 
