@@ -8,3 +8,5 @@ wheels/
 
 # venv
 .venv
+
+.document_store_cache
